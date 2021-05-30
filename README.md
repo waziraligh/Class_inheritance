@@ -1,5 +1,9 @@
 # Class_inheritance
 
+#### Uploads:-
+
+There is a file class_inheritance.py which contains the code written in python.
+
 #### Description of the code:-
 
 1) The class X is the parent class and has three methods init with paramaters name, execute with a given dictionary as parameters and shutdown. Those print out the name of the object, name of the dictionary and the parameters and the name of the object respectively.
